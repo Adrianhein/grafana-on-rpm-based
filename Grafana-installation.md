@@ -52,3 +52,9 @@
     http://<localhost>:3000
     http://<ip-address>:3000
 
+    #First login use:
+    user=admin
+    pasword=admin
+
+ ---   
+
