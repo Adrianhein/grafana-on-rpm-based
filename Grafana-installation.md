@@ -3,7 +3,7 @@
 #### https://grafana.com/grafana/download?platform=linux
 
 ---
-    [root@infra-01 ~]#  yum install -y https://dl.grafana.com/enterprise/release/grafana-enterprise-12.0.2-1.x86_64.rpm
+    [root@infra-01 ~]#  dnf install -y https://dl.grafana.com/enterprise/release/grafana-enterprise-12.0.2-1.x86_64.rpm
     Updating Subscription Management repositories.
     Unable to read consumer identity
     
