@@ -49,5 +49,6 @@
     
     Complete!
 ---
-
+    http://<localhost>:3000
+    http://<ip-address>:3000
 
